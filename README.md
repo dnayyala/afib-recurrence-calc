@@ -1,1 +1,1 @@
-# afib-recurrence-calc
+# Atrial Fibrilliation Recurrence Probability Calculator
